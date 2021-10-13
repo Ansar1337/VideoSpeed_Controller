@@ -1,2 +1,2 @@
 # VideoSpeed_Controller
-Video Speed Controller UI
+Video Speed Controller UI.
